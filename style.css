@@ -1,0 +1,29 @@
+body{
+    background-color: #B0C4DE;
+    font-family: cursive;
+    font-size: 19px;
+}
+
+table{
+    border-collapse: collapse;
+       border: 1px solid grey;
+       border-top: 3px solid grey;
+          width: 900px;
+          font-size: 16px;
+
+
+}
+
+tr {
+   border: 1px solid grey;
+   width: 20%;
+}
+
+td {
+   border: 1px solid grey;
+   border-bottom: 1px solid grey;
+   background-color: #DAA520;
+}
+td:first-child {
+   width: 30%;
+}
