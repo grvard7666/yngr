@@ -27,3 +27,7 @@ td {
 td:first-child {
    width: 30%;
 }
+
+img{
+  text-align: center;  
+}
